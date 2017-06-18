@@ -1,0 +1,4 @@
+Django==1.11.1
+pytz==2017.2
+requests==2.14.2
+click==6.7
